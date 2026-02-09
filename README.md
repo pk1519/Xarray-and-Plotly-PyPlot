@@ -122,11 +122,18 @@ scale = 0.4  # Modify this value to change force visualization scale
 ### 2D Plots
 - Shear Force Diagram showing force distribution along girder length
 - Bending Moment Diagram displaying moment variations
+### Screenshot
+<img width="802" height="685" alt="image" src="https://github.com/user-attachments/assets/c930f291-f488-4526-804b-b43394a62a1f" />
+
+<img width="805" height="681" alt="image" src="https://github.com/user-attachments/assets/4c216b33-f15c-4180-b3bf-e3d799c2cc9a" />
+
 
 ### 3D Interactive Plot
 - Multi-girder visualization with force overlays
 - Color-coded force types (red for shear, blue for moment)
 - Interactive controls for detailed analysis
+### Screenshot
+<img width="1919" height="989" alt="image" src="https://github.com/user-attachments/assets/3a2b1af8-e88e-4a5c-9c2d-1366a34e09f9" />
 
 ## 🤝 Contributing
 
