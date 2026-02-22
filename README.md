@@ -127,6 +127,9 @@ scale = 0.4  # Modify this value to change force visualization scale
 
 <img width="805" height="681" alt="image" src="https://github.com/user-attachments/assets/4c216b33-f15c-4180-b3bf-e3d799c2cc9a" />
 
+## File
+https://drive.google.com/file/d/11NQMSaxH2_2Y8uMszoQjoMqVQDWnfSQP/view?usp=drive_link 
+
 
 ### 3D Interactive Plot
 - Multi-girder visualization with force overlays
